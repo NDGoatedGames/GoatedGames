@@ -1,2 +1,2 @@
 # GoatedGames
-A nice GitHub website that is fully responsive 
+GoatedGames is a website that uses game files for every website availible
